@@ -19,6 +19,7 @@ public class SSOController {
     public void testGit() {
         System.out.println("first");
         System.out.println("second");
+        System.out.println("third");
     }
 
     //session
