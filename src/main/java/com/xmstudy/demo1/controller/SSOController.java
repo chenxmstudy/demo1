@@ -16,6 +16,10 @@ import java.util.Map;
 @RestController
 public class SSOController {
 
+    public void testGit() {
+        System.out.println("first");
+    }
+
     //session
     @RequestMapping("/sso1")
     public String test1(HttpServletRequest httpServletRequest) {
